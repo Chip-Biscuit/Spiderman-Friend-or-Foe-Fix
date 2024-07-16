@@ -1,7 +1,4 @@
 # Spiderman-Friend-or-Foe-Fix
-This is the spiderman Friend or Foe d3d9 wrapper which is based from 13AG d3d9.dll wrapper
-
-https://github.com/ThirteenAG/d3d9-wrapper
 
 simply download the release and put the d3d9.dll and d3d9.ini into your game folder next to the game exe and your good to go 
 
@@ -24,3 +21,7 @@ Team:
 Chip, JokerAlex21.
 
 credit to 13AG for d3d9hook base code.
+
+This is the spiderman Friend or Foe d3d9 wrapper which is based from 13AG d3d9.dll wrapper
+
+https://github.com/ThirteenAG/d3d9-wrapper
