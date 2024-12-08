@@ -11,9 +11,9 @@ you can edit settings in d3d9.ini
 
 Default for FPS cap is 60 you can change it as you like.
 
-if you would like to leave feedback or submit a bug please use the form provided:
+If you have any issues please go to discord for help 
 
-https://docs.google.com/forms/d/e/1FAIpQLSdhOLf0vciVlVuUIAj-m-6qPPc_gbLhF9BEaBmOZxE0Fz-0AA/viewform?usp=sharing
+https://discord.gg/pZwkHrTF8X
 
 brought to you by Fix Enhancers 
 
